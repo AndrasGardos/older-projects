@@ -8,8 +8,7 @@ These projects use the amazing p5.js library.
 - [Circular motion](https://kormozgas.netlify.com/)
 - [Average vs. current speed](https://atlagsebesseg.netlify.com/)
 
-## Serpents
+## [Serpents](https://serpents.herokuapp.com/)
 Like classic snake, but you control two snakes at once, and there is more strategical choices to make.
 Made using p5.js on the frontend, nodejs,express and mongoDB on the backend for the highscores.
-https://serpents.herokuapp.com/
 Even have an algorithm, which checks for people trying to make fake highscores. And it catched two people :D
